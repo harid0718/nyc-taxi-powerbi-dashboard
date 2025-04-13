@@ -1,0 +1,7 @@
+pandas
+requests
+apache-airflow
+psycopg2-binary
+duckdb
+pyarrow
+python-dotenv
