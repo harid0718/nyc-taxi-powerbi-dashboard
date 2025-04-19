@@ -8,6 +8,18 @@ This project is an **end-to-end data engineering and analytics pipeline** built 
 
 ---
 
+## ⚙️ Tech Stack & Tools
+
+[![Power BI](https://img.shields.io/badge/Power%20BI-dashboard-F2C811?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-transformation-purple?logo=pandas)](https://pandas.pydata.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-database-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Docker](https://img.shields.io/badge/Docker-containerized-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-hosted-181717?logo=github)](https://github.com/)
+
+
+---
+
 ## 📋 Project Overview
 
 This project visualizes over **2.8 million NYC yellow taxi rides** using a custom ETL pipeline and interactive Power BI dashboards. The goal is to enable insight into trip volumes, fares, tipping behavior, spatial patterns, and ride trends across the city.
